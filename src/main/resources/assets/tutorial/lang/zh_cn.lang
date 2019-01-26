@@ -1,3 +1,5 @@
 tile.firstBlock.name=第一个方块
 
 item.firstItem.name=第一个物品
+
+itemGroup.tutorial=教程模组

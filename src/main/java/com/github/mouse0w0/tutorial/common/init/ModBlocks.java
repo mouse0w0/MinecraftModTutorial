@@ -7,6 +7,6 @@ import net.minecraft.block.material.Material;
 
 public class ModBlocks {
 	
-	public static final Block FIRST_BLOCK = new FirstBlock(Material.ROCK).setRegistryName("first_block").setUnlocalizedName("firstBlock");
+	public static final Block FIRST_BLOCK = new FirstBlock(Material.ROCK).setRegistryName("first_block").setUnlocalizedName("firstBlock").setCreativeTab(ModCreativeTabs.MOD_CREATIVE_TAB);
 
 }
