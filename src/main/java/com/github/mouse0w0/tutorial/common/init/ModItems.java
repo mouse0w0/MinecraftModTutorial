@@ -6,6 +6,6 @@ import net.minecraft.item.Item;
 
 public class ModItems {
 	
-	public static final Item FIRST_ITEM = new FirstItem().setRegistryName("first_item"); // 这是我的第一个物品，名字是：tutorial:first_item 
+	public static final Item FIRST_ITEM = new FirstItem().setRegistryName("first_item").setUnlocalizedName("firstItem"); // 这是我的第一个物品，名字是：tutorial:first_item 
 	
 }
